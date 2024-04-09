@@ -1,7 +1,7 @@
 Made you Look!
 =====================
 
-AI Developer, NeuroScientist and XR Tinkerer
+Developer, NeuroScientist and XR Tinkerer
 --------------------------------------------
 
 Been fiddling with robotic kits since I was young, I now am a proud self-hoster who experiments wtih various XR platform development, and have been teaching myself signal processing with my EEG kit, as well as other various personal projects. Currently working at Neuraville on FEAGI, an open source AI framework that allows for simulation of neuronal structures based on the human brain!
