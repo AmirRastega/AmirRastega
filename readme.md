@@ -11,3 +11,5 @@ Been fiddling with robotic kits since I was young, I now am a proud self-hoster 
 *   🚀  I'm currently working on [FEAGI](http://neuraville.com/)
 *   🧠  I'm learning various projects, such as neural network assisted ASL transcription into english text
 *   ⚡  Array indexing should NEVER start at 1
+
+(note this is a partial mirror of a personal Github account, please contact me for more details)
